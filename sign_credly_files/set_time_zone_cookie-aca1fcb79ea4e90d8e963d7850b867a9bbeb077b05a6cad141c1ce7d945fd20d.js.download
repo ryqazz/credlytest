@@ -1,0 +1,1 @@
+(function(){var e,t,n,a,l;l=(new Date).getFullYear(),a=null,a=(t=new Date(l,0,1).getTimezoneOffset())>(n=new Date(l,6,1).getTimezoneOffset())?t:n,(e=new Image).onload=function(e){return e.target.src},e.src="/time_zone/"+a}).call(this);
